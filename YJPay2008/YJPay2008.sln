@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YJPay.Web", "YJPay.Web\YJPay.Web.csproj", "{C53DDC01-7E65-47CD-9107-4A4DCCD27299}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YJPay.BLL", "YJPay.BLL\YJPay.BLL.csproj", "{51F68467-C975-4C3C-B3A8-F4510B6E4239}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C53DDC01-7E65-47CD-9107-4A4DCCD27299}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C53DDC01-7E65-47CD-9107-4A4DCCD27299}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C53DDC01-7E65-47CD-9107-4A4DCCD27299}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C53DDC01-7E65-47CD-9107-4A4DCCD27299}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51F68467-C975-4C3C-B3A8-F4510B6E4239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51F68467-C975-4C3C-B3A8-F4510B6E4239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51F68467-C975-4C3C-B3A8-F4510B6E4239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51F68467-C975-4C3C-B3A8-F4510B6E4239}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

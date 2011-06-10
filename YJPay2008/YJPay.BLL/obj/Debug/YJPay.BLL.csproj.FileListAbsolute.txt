@@ -1,0 +1,5 @@
+C:\Documents and Settings\Administrator\桌面\YJPay2008\YJPay.BLL\bin\Debug\YJPay.BLL.dll
+C:\Documents and Settings\Administrator\桌面\YJPay2008\YJPay.BLL\bin\Debug\YJPay.BLL.pdb
+C:\Documents and Settings\Administrator\桌面\YJPay2008\YJPay.BLL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\YJPay2008\YJPay.BLL\obj\Debug\YJPay.BLL.dll
+C:\Documents and Settings\Administrator\桌面\YJPay2008\YJPay.BLL\obj\Debug\YJPay.BLL.pdb
