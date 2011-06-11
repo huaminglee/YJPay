@@ -22,7 +22,6 @@ namespace YJPay.Web
                 if (status == "2")
                 {
                     //充值成功
-
                 }
                 else if (status == "3")
                 {
